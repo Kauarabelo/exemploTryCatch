@@ -1,0 +1,2 @@
+# exemploTryCatch
+TryCatchExemplo
